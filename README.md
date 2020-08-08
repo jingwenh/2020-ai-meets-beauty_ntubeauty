@@ -5,7 +5,12 @@ Part of the codes and pretrained models are originated from https://github.com/g
 
 ## Citation
 ```
-{TBD}
+@inproceedings{hou2020attention,
+  title={Attention-driven Unsupervised Image Retrieval for Beauty Products with Visual and Textual Clues},
+  author={Hou, Jingwen and Ji, Sijie and Wang, Annan},
+  booktitle={Proceedings of the 28th ACM International Conference on Multimedia},
+  year={2020}
+}
 ```
 
 ## Guidance
